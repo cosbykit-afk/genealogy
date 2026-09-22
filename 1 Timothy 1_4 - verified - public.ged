@@ -1,0 +1,1183 @@
+0 HEAD
+1 SOUR Muse verified build
+2 NAME 1 Timothy 1:4 - verified tree
+2 VERS 2026-09-21
+1 DATE 21 SEP 2026
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 NOTE Verified-only build of the '1 Timothy 1:4' tree (Kit Cosby). Seed: every person carries a VERIFIED
+2 CONT NOTE stating exactly what the applied ledger verified as of 2026-09-21. Family links to unverified
+2 CONT persons are excluded and listed in NOTEs. Admission rule: N-21 (NOTATION_LEDGER.md). Reference file
+2 CONT (read-only): ~/workspace/genealogy/tree/1 Timothy 1_4.ged. Private working file - never share,
+2 CONT publish, or upload.
+1 SUBM @SUBM1@
+0 @SUBM1@ SUBM
+1 NAME Kit Cosby
+0 @I232109150075@ INDI
+1 NAME Grimaldus I Prince /of Monaco/
+2 GIVN Grimaldus I Prince
+2 SURN of Monaco
+1 SEX M
+1 BIRT
+2 DATE about 920
+2 PLAC Monaco
+1 DEAT
+2 DATE about 0968
+2 PLAC Monaco, Haute-Marne, Champagne-Ardenne, France
+1 _FSID LBCR-Q5L
+1 NOTE Detached as son of Rollo 2026-09-21: the House of Grimaldi was founded in 1160
+2 CONT by Grimaldo Canella of Genoa and took Monaco in 1297 (en.wikipedia.org/wiki/House_of_Grimaldi);
+2 CONT no Prince of Monaco existed in the 920s. The Rollo parentage was a fabrication.
+1 SOUR @S900000005@
+1 NOTE VERIFIED 21 SEP 2026: Verified NOT the son of Rollo - FAMC link detached as anachronistic: the
+2 CONT Grimaldi family was founded c.1160, there was no Prince of Monaco in the 920s. Evidence:
+2 CONT en.wikipedia.org/wiki/House_of_Grimaldi. See applied/ledger.md 20260921-0015.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMS @F859@. See
+2 CONT the working file for the unverified data.
+0 @I232119069854@ INDI
+1 NAME Rothaide /de Bobbio/
+2 GIVN Rothaide
+2 SURN de Bobbio
+1 NAME Rothaid /DeBobbio/
+2 GIVN Rothaid
+2 SURN DeBobbio
+1 SEX F
+1 BIRT
+2 DATE 820
+2 PLAC Vermandois, Normandy, France
+1 BIRT
+2 DATE 812
+2 PLAC Brosse, Seine-et-Marne, Ile-de-France, France
+1 DEAT
+2 DATE 15 June 858
+2 PLAC Milanm Provincia de Milano, Lombardia, Italy
+1 DEAT
+2 DATE 858
+2 PLAC Milan, Milano, Lombardia, Italy
+1 BURI
+2 PLAC Basillica of Sant'Ambrogio, Milan, citta Metropolitana di Milano, Lombardia, Italy
+1 _FSID LDR6-HYY
+1 NOTE 2026-09-21: merged duplicate stub @I232111738323@ (Rothaid /DeBobbio/,
+2 CONT no dates, no parents); name kept as alternate. Distinct-person reading
+2 CONT ruled out by chronology: the stub child Hubert I (d. 23 Feb 943)
+2 CONT cannot also be the father (F989) of Rothaide (b. 812/820) -- 151+ at death.
+1 NOTE 2026-09-21: detached false parent link F989 (Hubert I deVermandois +
+2 CONT Bertha Senlis): both d. 943, cannot be parents of Rothaide b. 812/820.
+2 CONT Rothaide parentage now unknown in the tree.
+1 NOTE 2026-09-21: detached false child link F12190 (Adele Aelis Chartres,
+2 CONT b. 0783): predates Rothaide birth (812/820) by ~30 years. F12190 kept
+2 CONT as wife-only (possible later-wife family, husband unknown).
+1 NOTE 2026-09-21: F12192 mother-link (Rothaide -> Hubert I) rests on the merged
+2 CONT import stub; Pepin II paternity of Hubert I not established in the tree --
+2 CONT F12192 husband slot left unknown.
+1 NOTE VERIFIED 21 SEP 2026: Single identity confirmed - dateless stub Rothaid /DeBobbio/ @I232111738323@
+2 CONT merged in (distinct-person reading impossible: stub's child Hubert I d.943 cannot also be her
+2 CONT father). False parent link @F989@ detached (Hubert I + Bertha Senlis, both d.943, cannot parent a
+2 CONT woman b.812/820) - parentage now unknown. False child link @F12190@ detached (Adele b.783 predates
+2 CONT mother). Caveat: @F12192@ mother-link rests on the merged import stub; Pepin II paternity of Hubert
+2 CONT I not established. See applied/ledger.md 20260921-0300.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMS @F10035@, FAMS
+2 CONT @F12190@. See the working file for the unverified data.
+0 @I232222925741@ INDI
+1 NAME Pepin III of Vermandois Count of /Senlis/
+2 GIVN Pepin III of Vermandois Count of
+2 SURN Senlis
+1 NAME Pepin of /Vermandois/
+2 GIVN Pepin of
+2 SURN Vermandois
+1 SEX M
+1 BIRT
+2 DATE 839
+2 PLAC Vermandois, , Normandy, France
+1 BIRT
+2 PLAC Vermandois, Aisne, Picardie, France
+1 DEAT
+2 DATE 28 January 893
+2 PLAC Bayeux, Calvados, Basse-Normandie, France
+1 DEAT
+2 DATE 28 Jan
+2 PLAC Senlis, Oise, Picardie, France
+1 _FSID GWH5-GRV
+1 NOTE VERIFIED 21 SEP 2026: False second parent link @F5070@ removed; parentage @F13191@ (Pepin I of
+2 CONT Vermandois) kept. (Exact Pepin I vs II article match still uncertain - queued as a check, not
+2 CONT guessed.) See applied/ledger.md 20260921-0005.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F13191@, FAMS
+2 CONT @F5069@, FAMS @F13078@. See the working file for the unverified data.
+0 @I232109821245@ INDI
+1 NAME Alcaeus "Heracles" //
+2 GIVN Alcaeus "Heracles"
+1 SEX M
+1 _FSID G9PW-JZC
+1 NOTE Kit's mark 2026-09-21: "Hercules being the son of Zeus" is the
+2 CONT likely fabrication on this mythic line. Alcaeus Heracles is carried
+2 CONT as the literal son of the god Zeus (@F13740@, with Cronus and Rhea
+2 CONT above him) -- mythology entered as genealogy. Marked as obvious on
+2 CONT its face; not conceded to scholarly consensus. Lineage left
+2 CONT unaltered per Kit's order.
+1 NOTE VERIFIED 21 SEP 2026: Kit's mark (indicate-only, N-16): 'son of Zeus' (@F13740@, under Cronus/Rhea)
+2 CONT is the likely fabrication - mythology entered as genealogy. Lineage unaltered. See applied/ledger.md
+2 CONT 20260921-0030.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F13740@, FAMS
+2 CONT @F7176@. See the working file for the unverified data.
+0 @I232119049329@ INDI
+1 NAME Guillaume IV ( Fier-a-bras) /Aquitaine/
+2 GIVN Guillaume IV ( Fier-a-bras)
+2 SURN Aquitaine
+1 SEX M
+1 BIRT
+2 DATE about 0949
+2 PLAC Aquitaine, France
+1 DEAT
+2 DATE 3 February 0995
+2 PLAC France
+1 _FSID LH7S-12T
+1 NOTE VERIFIED 21 SEP 2026: True parents verified as William III + Gerloc - moved FAMC @F12566@ ->
+2 CONT @F2954@; fragment family @F12566@ deleted. (William III himself not yet verified.) See
+2 CONT applied/ledger.md 20260921-0015.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F12565@, FAMC
+2 CONT @F2954@, FAMS @F2610@. See the working file for the unverified data.
+0 @I232113353174@ INDI
+1 NAME Rothold /De Senlis or St Lis/
+2 GIVN Rothold
+2 SURN De Senlis or St Lis
+1 SEX M
+1 BIRT
+2 DATE WFT Est. 906-967
+1 DEAT
+2 DATE 0995
+2 PLAC Northumberland Co., England
+1 _FSID 9HP7-QQW
+1 NOTE Merged 2026-09-21: absorbed duplicate stub @I232113353175@ (same name Rothold /De Senlis or St Lis/, no dates, occupying its own WIFE slot in @F5878@) per Kit historical fast-track; no alternate data lost. See NOTATION_LEDGER.md N-11/N-17.
+1 NOTE VERIFIED 21 SEP 2026: Self-spouse import artifact resolved: the WIFE-side stub @I232113353175@
+2 CONT (identical name, no dates/parents/families) was the same person - merged in and retired; wife of
+2 CONT Rothold is unknown. See applied/ledger.md 20260921-0100.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F13384@, FAMS
+2 CONT @F5878@. See the working file for the unverified data.
+0 @I232109150478@ INDI
+1 NAME Rollo Rognvaldsen of Normandy //
+2 GIVN Rollo Rognvaldsen of Normandy
+1 NAME Rollo of Normandy //
+2 GIVN Rollo of Normandy
+1 NAME Rollo /of Normandy/
+2 GIVN Rollo
+2 SURN of Normandy
+1 NAME /Rollo/
+2 SURN Rollo
+1 SEX M
+1 FAMS @F856@
+1 BIRT
+2 DATE about 0846
+2 PLAC Fakse, Præstø, Denmark
+1 BIRT
+2 DATE 0846
+2 PLAC Fakse, Præstø, Denmark
+1 BIRT
+2 DATE Abt 846
+2 PLAC Fakse, Præstø, Denmark
+1 BIRT
+2 DATE about 860
+2 PLAC Mære, Buskerud, Norway
+1 BIRT
+2 DATE 0846
+1 CHR
+2 DATE 0912
+2 PLAC Rouen, Seine-Maritime, Upper Normandy, France
+1 DEAT
+2 DATE 17 December 932
+2 PLAC Rouen, Seine-Maritime, Haute-Normandie, France
+1 DEAT
+2 DATE 0932
+2 PLAC Rouen, Seine-Maritime, Upper Normandy, France
+1 DEAT
+2 DATE after 930
+2 PLAC Rouen, Seine-Maritime, Haute-Normandie, France
+1 DEAT
+2 DATE 0932
+2 PLAC Rouen, Seine-Maritime, Haute-Normandie, France
+1 BURI
+2 DATE 0932
+2 PLAC Rouen Cathedral, Rouen, Seine-Maritime, Upper Normandy, France
+1 BURI
+2 DATE Aft 17 December 932
+2 PLAC Rouen Cathedral, Rouen, Seine-Maritime, Upper Normandy, France
+1 _FSID L1FD-PFX
+1 NAME Rollo Robert Hrolf /Rognvaldsson/ Of Normady
+2 GIVN Rollo Robert Hrolf
+2 SURN Rognvaldsson
+2 NSFX Of Normady
+1 BIRT
+2 DATE 860
+1 DEAT
+2 DATE 931
+1 FAMS @F857@
+1 NOTE Merged 2026-09-21 from three duplicate Rollo records per Kit historical fast-track:
+2 CONT one Rollo, son of Rognvald Eysteinsson; wives Poppa of Bayeux and Gisela of France;
+2 CONT children William Longsword and Gerloc (en.wikipedia/wiki/Gerloc, encyclopedia.com).
+1 NAME Rollo /Ragnvsaldsson/
+2 GIVN Rollo
+2 SURN Ragnvsaldsson
+1 BIRT
+2 DATE 14 Oct 846
+2 PLAC Maer, Nord-Trondelag, Norway
+1 SOUR @S900000001@
+1 NOTE VERIFIED 21 SEP 2026: Single identity confirmed - 3 duplicate Rollo records merged. Parents Ragnvald
+2 CONT Mørejarl and Hild (Store Norske Leksikon). Marriage to Poppa of Bayeux; MARR 889 Rouen preserved on
+2 CONT @F856@. Evidence: en.wikipedia.org/wiki/Rollo + Store Norske Leksikon + eo/ro Wikipedia. See
+2 CONT applied/ledger.md 20260921-0015.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F7686@. See
+2 CONT the working file for the unverified data.
+0 @I232113120927@ INDI
+1 NAME Bernard Bormard /Vermandois de Senlis et de Valois/ II
+2 GIVN Bernard Bormard
+2 SURN Vermandois de Senlis et de Valois
+2 NSFX II
+1 NAME Bernard /de VERMANDOIS/ II
+2 GIVN Bernard
+2 SURN de VERMANDOIS
+2 NSFX II
+1 SEX M
+1 BIRT
+2 DATE 1 August 919
+2 PLAC Senlis, Oise, Picardie, France
+1 BIRT
+2 DATE 915
+2 PLAC Senlis, Oise, Picardie, France
+1 DEAT
+2 DATE 956
+2 PLAC Senlis, Oise, Picardie, France
+1 _FSID LTT6-YJQ
+1 NAME Bernard /De Senlis/ I
+2 GIVN Bernard
+2 SURN De Senlis
+2 NSFX I
+1 BIRT
+2 DATE 875
+2 PLAC Picardie, France
+1 DEAT
+2 DATE 927
+2 PLAC Picardie, France
+1 NOTE Merged 2026-09-21: Bernard /De Senlis/ I (@I232109807949@, retired) merged
+2 CONT into this record per historical fast-track: en.wikipedia.org/wiki/Bernard_of_Senlis
+2 CONT treats "Bernard I (or II) of Senlis" as ONE figure (c.919-c.947), grandson of
+2 CONT Pepin II of Senlis and Valois (846-893); father disputed: Pepin (876-922) or
+2 CONT Bernard (c.875-927). Second sources: de.wikipedia.org/wiki/Grafschaft_Senlis
+2 CONT (Bernhard b.~880 d.after 945, son of Guy) and it.wikipedia.org/wiki/Bernardo_di_Senlis
+2 CONT (Settipani: son of Guido and Gunhilde, dau. of Pepin I of Vermandois).
+2 CONT Alternates kept: BIRT 875 / DEAT 927 alongside BIRT 915-919 / DEAT 956.
+2 CONT Families kept: F4645 (Adele de Normandie, child Alix b.944) and F12672 (father
+2 CONT of Sprota b.911 - fr.wikipedia.org/wiki/Sprota lists Sprota father as incertain;
+2 CONT the 19th-c. Herbert-comte-de-Senlis thesis is abandoned). Parentage F4654
+2 CONT (Pepin de Senlis de Valois + Adalind de Rennes) = the Pepin-father theory.
+1 SOUR @S900000008@
+1 NOTE VERIFIED 21 SEP 2026: 'Bernard I (or II) of Senlis' is ONE figure - the tree's two unlinked records
+2 CONT merged. Father disputed: Pepin (876-922) or Bernard (c.875-927) - both theories kept and mapped.
+2 CONT Sprota's father link KEPT as incertain (fr.wikipedia.org/wiki/Sprota abandons the 19th-c. Herbert-
+2 CONT comte-de-Senlis thesis; incertain != false). Evidence: en.wikipedia.org/wiki/Bernard_of_Senlis +
+2 CONT de.wikipedia.org/wiki/Grafschaft_Senlis + it.wikipedia.org/wiki/Bernardo_di_Senlis. See
+2 CONT applied/ledger.md 20260921-0555.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F4654@, FAMS
+2 CONT @F4645@, FAMS @F12672@. See the working file for the unverified data.
+0 @I232111442589@ INDI
+1 NAME Beatrice or Beatrix /DE VERMANDOIS/
+2 GIVN Beatrice or Beatrix
+2 SURN DE VERMANDOIS
+1 NAME béatrice /DE VERMANDOIS/
+2 GIVN béatrice
+2 SURN DE VERMANDOIS
+1 NAME Beatrice /of Vermandois/ Queen of the Franks
+2 GIVN Beatrice
+2 SURN of Vermandois
+2 NSFX Queen of the Franks
+1 SEX F
+1 BIRT
+2 DATE 0870
+2 PLAC Vermandois, France
+1 BIRT
+2 DATE 0880
+2 PLAC Vermandois, Aisne, Picardie, France
+1 DEAT
+2 DATE 26 March 931
+2 PLAC Soissons, Asine, Hauts-de-France, France
+1 DEAT
+2 DATE 26 March 0931
+2 PLAC Soissons, Aisne, Picardie, France
+1 _FSID L8RY-3YN
+1 NOTE Not the same person as Beatrix /de Vermandois/
+2 CONT @I232109150082@ (b. ABT 850). That Beatrix is wife of Pepin I DeSenlis in
+2 CONT @F855@ and mother of Poppa de Senlis. Merging would make Heribert I
+2 CONT (b. 850) the father of a woman also born ~850 and conflate two husbands
+2 CONT across adjacent generations (@F855@ vs @F61@).
+2 CONT Marked not-a-duplicate 2026-09-21, hourly duplicate review, ring 1.
+1 NOTE VERIFIED 21 SEP 2026: Verified NOT the same person as Beatrix /de Vermandois/ @I232109150082@ (ABT
+2 CONT 850): a merge would make her father Heribert I (b.850) a father at age 0. Daughter of Heribert I,
+2 CONT wife of Robert I King of the Franks. See applied/ledger.md 20260921-0156.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F119@, FAMS
+2 CONT @F61@. See the working file for the unverified data.
+0 @I232117457203@ INDI
+1 NAME Farahild /de Neustria/ of the East Goths
+2 GIVN Farahild
+2 SURN de Neustria
+2 NSFX of the East Goths
+1 NAME Farahild de /Neustria/
+2 GIVN Farahild de
+2 SURN Neustria
+1 NAME Farahild //
+2 GIVN Farahild
+1 SEX F
+1 BIRT
+2 DATE Abt 364
+2 PLAC Neustria, Liege, Belgium
+1 BIRT
+2 DATE 0346
+2 PLAC Neustria, France
+1 BIRT
+2 DATE about 0620
+2 PLAC Neustria, Belgium
+1 DEAT
+2 DATE 436
+2 PLAC Marne, Loire-Atlantique, Pays de la Loire, France
+1 DEAT
+2 DATE 0436
+2 PLAC Loiré, Maine-et-Loire, Pays de la Loire, France
+1 DEAT
+2 DATE Cir 684
+2 PLAC Liege, Liège, Walloon Region, Belgium
+1 _FSID LYX5-8PZ
+1 NOTE Kit's mark 2026-09-21: his Jesus-Christ line is assessed as likely
+2 CONT fraudulent from this person upward. Daughter Amalberga of Maubeuge
+2 CONT (b.640) -> Farahild (b.~364) is a 276-year parent-child gap,
+2 CONT chronologically impossible on the tree's own dates (fam @F8758@);
+2 CONT the ancient/Grail segment above (Hermanfried, Dagobert II b.302,
+2 CONT Yoshua Graal, etc.) is therefore treated as a fabricated graft.
+2 CONT Marked on internal chronological evidence, not conceded to scholarly
+2 CONT consensus. Lineage left unaltered per Kit's order.
+1 NOTE VERIFIED 21 SEP 2026: Kit's mark (indicate-only, N-14): the Jesus-Christ line likely becomes
+2 CONT fraudulent here - 276-year gap to daughter Amalberga (b.640) on the tree's own dates. Lineage
+2 CONT unaltered. See applied/ledger.md 20260921-0025.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F14168@, FAMC
+2 CONT @F1493@, FAMS @F8757@, FAMS @F8758@. See the working file for the unverified data.
+0 @I232109202891@ INDI
+1 NAME pléctrude /D'AQUITAINE DE BAVIERE/
+2 GIVN pléctrude
+2 SURN D'AQUITAINE DE BAVIERE
+1 SEX F
+1 BIRT
+2 DATE 660
+2 PLAC Trier (Trèves), Rheinland-Pfalz, Germany
+1 DEAT
+2 DATE 16 December 714
+2 PLAC Cologne, Köln, Nordrhein-Westfalen, Germany
+1 BURI
+2 PLAC Église de Notre Dame de Cologne, Cologne, Rheinland, Germany
+1 _FSID GSMJ-5DV
+1 SOUR @S900000007@
+1 NOTE VERIFIED 21 SEP 2026: Verified NOT married to Pepin I of Vermandois (b.~817) - false marriage
+2 CONT @F8457@ removed (anachronism: she d.714). Correct marriage @F8456@ to Pepin of Herstal kept.
+2 CONT Evidence: en.wikipedia.org/wiki/Plectrude. See applied/ledger.md 20260921-0005, 20260921-0019.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F1758@, FAMS
+2 CONT @F8456@. See the working file for the unverified data.
+0 @I232109201303@ INDI
+1 NAME Sceaf /ben Magi Japheth/
+2 GIVN Sceaf
+2 SURN ben Magi Japheth
+1 SEX M
+1 BIRT
+2 DATE Abt 0200
+2 PLAC Asgard, Asia or East Europe
+1 DEAT
+2 PLAC Troja, Çanakkale, Turkey
+1 _FSID 9CFD-YJL
+2 _PRIM Y
+1 NOTE Kit's mark 2026-09-21: the basket-baby of legend -- a shield for
+2 CONT a cradle, chain mail for a pillow, a sword beside him, set adrift
+2 CONT to the shore. The legend gives him NO father; he is a foundling.
+2 CONT "Sceaf ben Magi Japheth" assigns the foundling a biblical-flavored
+2 CONT father (and, through Moda ben Vingener, a Trojan grandfather):
+2 CONT that parentage is the likely fabrication. Marked as obvious on its
+2 CONT face. Lineage left unaltered per Kit's order.
+1 NOTE VERIFIED 21 SEP 2026: Kit's mark (indicate-only, N-16): the basket-baby (shield cradle, adrift) is a
+2 CONT foundling by legend, so 'ben Magi Japheth' parentage is the likely fabrication. Lineage unaltered.
+2 CONT See applied/ledger.md 20260921-0030.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F14246@, FAMS
+2 CONT @F14247@; media objects excluded (Ancestry export carried no files): @O148@, @O877@. See the working
+2 CONT file for the unverified data.
+0 @I232117457190@ INDI
+1 NAME Amalberga /of Maubeuge/ Queen of the Franks
+2 GIVN Amalberga
+2 SURN of Maubeuge
+2 NSFX Queen of the Franks
+1 SEX F
+1 BIRT
+2 DATE 640
+2 PLAC Brabant, Belgium
+1 DEAT
+2 DATE 690
+1 BURI
+2 PLAC Abbaye Saint-Vaast  Arras, Departement du Pas-de-Calais, Nord-Pas-de-Calais, France
+1 _FSID LDSC-CYD
+1 NOTE Kit's mark 2026-09-21: last chronologically coherent generation on
+2 CONT his Jesus-Christ line going back; her mother Farahild (b.~364, 276
+2 CONT years before Amalberga's b.640) is where the line likely becomes
+2 CONT fraudulent. See NOTE on @I232117457203@. Lineage left unaltered
+2 CONT per Kit's order.
+1 NOTE VERIFIED 21 SEP 2026: Kit's mark (indicate-only, N-14): last chronologically coherent generation of
+2 CONT the Jesus-Christ line before the Farahild graft. Lineage unaltered. See applied/ledger.md
+2 CONT 20260921-0025.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F8758@, FAMS
+2 CONT @F1402@. See the working file for the unverified data.
+0 @I232112689282@ INDI
+1 NAME Adele (pagan Gerloc) /of Normandy/
+2 GIVN Adele (pagan Gerloc)
+2 SURN of Normandy
+1 NAME Adele Gerloc of Normandy /d'Aquitaine/
+2 GIVN Adele Gerloc of Normandy
+2 SURN d'Aquitaine
+1 NAME adèle-gerloc /DE NORMANDIE/
+2 GIVN adèle-gerloc
+2 SURN DE NORMANDIE
+1 SEX F
+1 FAMC @F856@
+1 BIRT
+2 DATE about 912
+2 PLAC Rouen, Normandy, France
+1 BIRT
+2 DATE 0917
+2 PLAC Rouen, Seine-Maritime, Haute-Normandie, Francia
+1 BIRT
+2 DATE 0912
+2 PLAC Normandie, France
+1 DEAT
+2 DATE 14 octobre 0962
+1 DEAT
+2 DATE 14 Oct 0962
+2 PLAC Nevers, Nievre, Bourgogne, France
+1 DEAT
+2 DATE 14 October 962
+1 BURI
+2 DATE October 0962
+2 PLAC Nevers, Nièvre, Burgundy, France
+1 _FSID LDSK-FJV
+1 CHR
+2 DATE 912
+2 PLAC Rouen, Seine-Maritime, Haute-Normandie, France
+1 DEAT
+2 DATE 0962
+1 BURI
+2 DATE OCT 962
+2 PLAC Normandie, France
+1 SOUR @S900000003@
+1 NOTE VERIFIED 21 SEP 2026: Single identity confirmed - duplicate Gerloc#2 merged
+2 CONT (christening/death/burial variants kept). Evidence: en.wikipedia.org/wiki/Gerloc + encyclopedia.com
+2 CONT (Gale). See applied/ledger.md 20260921-0015.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMS @F2954@. See
+2 CONT the working file for the unverified data.
+0 @I232109150082@ INDI
+1 NAME Beatrix /de Vermandois/
+2 GIVN Beatrix
+2 SURN de Vermandois
+1 SEX F
+1 BIRT
+2 DATE ABT 850
+2 PLAC France
+1 _FSID 993P-C3K
+1 NOTE Not the same person as Beatrice or Beatrix /DE VERMANDOIS/
+2 CONT @I232111442589@ (b. 0870/0880, d. 26 Mar 931). That Beatrix is daughter of
+2 CONT Heribert I de Vermandois (b. 850) in @F119@ and wife of Robert I King of
+2 CONT the Franks in @F61@. Merging would make Heribert I a father at age 0 and
+2 CONT conflate two husbands across adjacent generations (@F855@ vs @F61@).
+2 CONT Marked not-a-duplicate 2026-09-21, hourly duplicate review, ring 1.
+1 NOTE VERIFIED 21 SEP 2026: Verified NOT the same person as Beatrice/Beatrix DE VERMANDOIS @I232111442589@
+2 CONT (b.0870/0880): a merge would make Heribert I (b.850) a father at age 0 and conflate two husbands
+2 CONT (@F855@ vs @F61@) across generations. Likely aunt-niece generation. See applied/ledger.md
+2 CONT 20260921-0156.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMS @F855@. See
+2 CONT the working file for the unverified data.
+0 @I232109201491@ INDI
+1 NAME Dardanus /ben Zerah/ the Founder of Troy
+2 GIVN Dardanus
+2 SURN ben Zerah
+2 NSFX the Founder of Troy
+1 NAME Dara /ben Zerah/ 1 Chronicles 2:6 
+2 GIVN Dara
+2 SURN ben Zerah
+2 NSFX 1 Chronicles 2:6 
+1 SEX M
+1 BIRT
+2 DATE 1719 BC
+2 PLAC Rameses, Goshen, Egypt
+1 DEAT
+2 DATE 1414 B.C.
+2 PLAC Rameses, Goshen, Egypt
+1 _FSID 9MJX-DJ4
+1 SOUR @S686254584@
+2 PAGE Ancestry Family Tree
+2 _APID 72301204:1030:10527024
+2 _PRIM Y
+1 NOTE Kit's mark 2026-09-21: where the Thor line becomes mythology.
+2 CONT Dardanus "ben Zerah" grafts the Trojan kings onto Judah's biblical
+2 CONT line -- and his other parent here is Electra, daughter of Agamemnon
+2 CONT of Greek myth: Bible and myth yoked as one parentage. Above him
+2 CONT (Tros, Ilus, Laomedon, Memnon, Thor) is legend; below him (Zerah,
+2 CONT Judah, Jacob...) is biblical history, preserved. Marked as obvious
+2 CONT on its face; not conceded to scholarly consensus. Lineage left
+2 CONT unaltered per Kit's order.
+1 NOTE VERIFIED 21 SEP 2026: Kit's mark (indicate-only, N-16): where the Thor line becomes mythology - 'ben
+2 CONT Zerah' (biblical) with second parent Electra daughter of Agamemnon (Greek myth). Below him biblical
+2 CONT history preserved. Lineage unaltered. See applied/ledger.md 20260921-0030.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F8086@, FAMS
+2 CONT @F8097@; media objects excluded (Ancestry export carried no files): @O877@. See the working file for
+2 CONT the unverified data.
+0 @I232109150080@ INDI
+1 NAME Poppa /de Senlis of Bayeux/
+2 GIVN Poppa
+2 SURN de Senlis of Bayeux
+1 NAME Poppa /de Bayeux/ Duchess of Normandy
+2 GIVN Poppa
+2 SURN de Bayeux
+2 NSFX Duchess of Normandy
+1 NAME Poppa of Bayeux //
+2 GIVN Poppa of Bayeux
+1 NAME /Princess ()/
+2 SURN Princess ()
+1 SEX F
+1 FAMS @F856@
+1 BIRT
+2 DATE 872
+2 PLAC Evreaux, Haute-Normandie, France
+1 BIRT
+2 DATE 875
+2 PLAC Bayeux, Calvados, Basse-Normandie, France
+1 DEAT
+2 DATE 11 August 930
+2 PLAC Rouen, Seine-Maritime, Upper Normandie, France
+1 BURI
+2 DATE Aft 11 August 930
+2 PLAC Seine-Maritime, Upper Normandy, France
+1 _FSID 94RX-PM5
+1 NAME Poppa /DeValois/
+2 GIVN Poppa
+2 SURN DeValois
+1 BIRT
+2 DATE 0872
+2 PLAC Bayeaux, of Normandy, FR
+1 DEAT
+2 DATE 938
+2 PLAC Rouen, Seine-Maritime, Haute-Normandie, France
+1 NOTE Parentage disputed among scholars: Dudo of Saint-Quentin makes her daughter
+2 CONT of Count Berengar of Bayeux; Settipani proposes Guy de Senlis and Cunegundis
+2 CONT (daughter of Pepin of Vermandois); Keats-Rohan proposes Berengar II of Neustria.
+2 CONT (Source: en.wikipedia.org/wiki/Poppa_of_Bayeux)
+1 NAME Poppa /of Bayeux/ Duchess of Normandy
+2 GIVN Poppa
+2 SURN of Bayeux
+2 NSFX Duchess of Normandy
+1 BIRT
+2 DATE 872
+2 PLAC Caen, Calvados, Basse-Normandy, France
+1 DEAT
+2 DATE 11 August 930
+2 PLAC Caen, Calvados, Basse-Normandy, France
+1 BURI
+2 DATE 930
+2 PLAC Notre Dame Cathedral, Rouen, Seine-Maritime, Haute-Normandy, France
+1 NOTE Tree keeps both proposed parentages while scholars disagree: F855
+2 CONT (Pepin I de Senlis/Beatrix, cf. Settipani) and F2660 (Berengar II of Neustria/Gervunde,
+2 CONT cf. Keats-Rohan). (en.wikipedia.org/wiki/Poppa_of_Bayeux)
+1 SOUR @S900000002@
+1 NOTE VERIFIED 21 SEP 2026: Single identity confirmed - duplicates merged (incl. Poppa#3 with
+2 CONT name/birth/death/burial variants b.872 Caen, d.11 Aug 930, bur. Rouen). Parentage genuinely disputed
+2 CONT (Settipani vs Keats-Rohan) - both FAMC links kept, dispute mapped. Evidence:
+2 CONT en.wikipedia.org/wiki/Poppa_of_Bayeux. See applied/ledger.md 20260921-0009, 20260921-0015.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F855@, FAMC
+2 CONT @F2660@. See the working file for the unverified data.
+0 @I232117401241@ INDI
+1 NAME Hugues /le Grand/
+2 GIVN Hugues
+2 SURN le Grand
+1 NAME hugues le grand le blanc l'abbé /D'ANJOU/
+2 GIVN hugues le grand le blanc l'abbé
+2 SURN D'ANJOU
+1 NAME Hugues /le Grand Robertide/ Duc de France
+2 GIVN Hugues
+2 SURN le Grand Robertide
+2 NSFX Duc de France
+1 NAME hugues le grand le blanc l'abb' /D'ANJOU/
+2 GIVN hugues le grand le blanc l'abb'
+2 SURN D'ANJOU
+1 NAME Hugh /Magnus/
+2 GIVN Hugh
+2 SURN Magnus
+1 SEX M
+1 BIRT
+2 DATE 0897
+2 PLAC Paris, Île-de-France, France
+1 CHR
+2 DATE 0898
+2 PLAC Paris, Île-de-France, Francia
+1 CHR
+2 DATE 13 September 933
+1 DEAT
+2 DATE 17 June 0956
+2 PLAC Dourdan, Seine-et-Oise, Île-de-France, France
+1 DEAT
+2 DATE 16 juin 0956
+2 PLAC Dourdan, Étampes, Essonne, Île-de-France, France
+1 DEAT
+2 DATE 16 juin 0956
+2 PLAC Dourdan, Essonne, Île-de-France, France
+1 BURI
+2 DATE 23 June 0956
+2 PLAC Abbaye De St. Denis, St. Denis, Seine, France
+1 BURI
+2 DATE 23 juin 0956
+2 PLAC Saint-Denis, Seine, France
+1 BURI
+2 DATE 23 juin 0956
+2 PLAC Seine-Saint-Denis, Île-de-France, France
+1 BURI
+2 PLAC Saint-Denis, Île-de-France, France
+1 _FSID LCRR-KM2
+1 NOTE Kit's mark 2026-09-21: attached here as father of Isabel of
+2 CONT Vermandois (b.1085) gives a 188-year parent-child gap -- likely
+2 CONT conflation of Hugh the Great, Duke of the Franks (897-956) with
+2 CONT Hugh I of Vermandois (~1057-1101), Isabel's true father (28-year
+2 CONT gap). Flagged, not fixed: Kit's order is to indicate, not alter,
+2 CONT the Jesus-Christ line.
+1 NOTE VERIFIED 21 SEP 2026: Kit's mark (indicate-only, N-14): 188-year conflation flag - Hugh the Great
+2 CONT (897-956) merged in place of Hugh I of Vermandois (~1057-1101) above Isabel of Vermandois (b.1085).
+2 CONT Lineage unaltered. See applied/ledger.md 20260921-0025.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F61@, FAMS
+2 CONT @F4179@, FAMS @F71@, FAMS @F12031@. See the working file for the unverified data.
+0 @I232118273739@ INDI
+1 NAME Bathath Farssaidh (Boath Ben Magog) //
+2 GIVN Bathath Farssaidh (Boath Ben Magog)
+1 SEX M
+1 BIRT
+2 DATE 2500 B.C.
+2 PLAC Scythia, Ancient Eurasia
+1 DEAT
+2 PLAC Scythia, Ancient Eurasia
+1 _FSID LX7X-7MV
+1 NOTE Kit's mark 2026-09-21: St. Patrick's-era fabrication probably
+2 CONT begins here -- the bridge grafting the Irish legendary line onto
+2 CONT biblical history. Fenius Farsaidh (Abt 2050 BC) -> Bathath (2500
+2 CONT B.C.) is a 450-year parent-child gap, and Bathath -> Magog (2342
+2 CONT BC) is inverted (father dated after son): chronologically
+2 CONT impossible on the tree's own dates. "Boath Ben Magog" exists only
+2 CONT to join the Milesian pedigree to the Bible. Marked on internal
+2 CONT evidence, not conceded to scholarly consensus. Lineage left
+2 CONT unaltered per Kit's order; biblical histories preserved.
+1 NOTE VERIFIED 21 SEP 2026: Kit's mark (indicate-only, N-15): St. Patrick's-era fabrication of the Irish
+2 CONT pedigree probably begins here - 450-year gap from Fenius (Abt 2050 BC) and inverted link to Magog
+2 CONT (2342 BC). Exists only to join the Milesian line to the Bible. Lineage unaltered. See
+2 CONT applied/ledger.md 20260921-0028.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F6754@, FAMS
+2 CONT @F7621@. See the working file for the unverified data.
+0 @I232111374228@ INDI
+1 NAME Pépin (Carloman) /Carolingian/ of Italy, King of the Lombards
+2 GIVN Pépin (Carloman)
+2 SURN Carolingian
+2 NSFX of Italy, King of the Lombards
+1 NAME Pepin (Carloman) /of Italy/
+2 GIVN Pepin (Carloman)
+2 SURN of Italy
+1 SEX M
+1 BIRT
+2 DATE 12 Apr 0777
+2 PLAC Aachen, Aix-la-Chapelle (Aken), Nordrhein-Westfalen, Deutschland
+1 CHR
+2 DATE 12 Apr 0781
+2 PLAC Roma, Rome, Città Metropolitana di Roma Capitale, Lazio, Italia
+1 CHR
+2 DATE 12 April 781
+2 PLAC Roma, Roma, Latium, Italy
+1 DEAT
+2 DATE 08 Jul 0810
+2 PLAC Milan, Italy
+1 DEAT
+2 DATE 8 July 0810
+2 PLAC Milano, Lombardia, Italia
+1 BURI
+2 DATE 11 Jul 0810
+2 PLAC Basilica di San Zeno Maggiore, Verona, Provincia Verona, Regione Veneto, Italia
+1 BURI
+2 PLAC Basilica di San Zeno Maggiore, Verona, Provincia di Verona, Veneto, Italy
+1 _FSID LWFV-NRK
+1 SOUR @S900000006@
+1 NOTE VERIFIED 21 SEP 2026: Birth 12 Apr 0777 confirmed; conflicting '12 April 773' block removed as
+2 CONT erroneous. Evidence: en.wikipedia.org/wiki/Pepin_of_Italy. See applied/ledger.md 20260921-0005,
+2 CONT 20260921-0019.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F1780@, FAMS
+2 CONT @F11167@, FAMS @F5216@. See the working file for the unverified data.
+0 @I232118273735@ INDI
+1 NAME Phoeniusa Farsaidh or Fenius Faraidh /Scynthians/
+2 GIVN Phoeniusa Farsaidh or Fenius Faraidh
+2 SURN Scynthians
+1 SEX M
+1 BIRT
+2 DATE Abt 2050 BC
+2 PLAC Scythia, Ukraine
+1 DEAT
+2 DATE Deceased
+1 _FSID LT45-G6P
+1 NOTE Kit's mark 2026-09-21: last figure of the Irish legendary line
+2 CONT going back (Niul -> Gaodhal -> ... -> Mil -> the Irish kings).
+2 CONT Above him the synthetic biblical graft begins at Bathath "Boath
+2 CONT Ben Magog" (@I232118273739@). The biblical histories (Noah -> Adam)
+2 CONT are preserved unmarked per Kit's order. Lineage left unaltered.
+1 NOTE VERIFIED 21 SEP 2026: Kit's mark (indicate-only, N-15): last figure of the Irish legendary line;
+2 CONT biblical histories above preserved unmarked. Lineage unaltered. See applied/ledger.md 20260921-0028.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F7621@, FAMS
+2 CONT @F7613@. See the working file for the unverified data.
+0 @I232109150078@ INDI
+1 NAME Giselle /Caroligians/ Of Franks
+2 GIVN Giselle
+2 SURN Caroligians
+2 NSFX Of Franks
+1 SEX F
+1 FAMS @F857@
+1 BIRT
+2 DATE circa 900
+2 PLAC France
+1 _FSID G964-SS2
+1 SOUR @S900000004@
+1 NOTE VERIFIED 21 SEP 2026: Record carries Wikipedia source; existence as Rollo's wife is DEBATED and she
+2 CONT certainly had no son (per William of Jumieges note on @F857@). Evidence:
+2 CONT en.wikipedia.org/wiki/Gisela_of_France. See applied/ledger.md 20260921-0015, 20260921-0019.
+0 @I232112766195@ INDI
+1 NAME Cunigunde Ogive /of Luxemburg/
+2 GIVN Cunigunde Ogive
+2 SURN of Luxemburg
+1 NAME Ogive of Luxembourg //
+2 GIVN Ogive of Luxembourg
+1 SEX F
+1 BIRT
+2 DATE 4 septembre 0986
+2 PLAC Saint-Aubin-du-Pavail, Ille-et-Vilaine, Bretagne, France
+1 BIRT
+2 DATE Abt 984
+2 PLAC Luxembourg, Germany
+1 DEAT
+2 DATE 21 November 1030
+2 PLAC Ghent, Flemish Region, Belgium
+1 BURI
+2 DATE Aft 21 November 1030
+2 PLAC St. Peters Abbey Chapel of St. Laurent, Gent, East Flanders, Belgium
+1 _FSID L1W5-275
+1 SOUR @S900000009@
+1 NOTE VERIFIED 21 SEP 2026: Identity verified as Ogive of Luxembourg - daughter of Frederick of Luxembourg
+2 CONT (Count of Moselgau) and Irmentrude of Wetterau (Countess of Gleiberg); first wife of Baldwin IV of
+2 CONT Flanders (m. 1012); mother of Baldwin V of Flanders. Birth c.986 (tree carries 4 septembre 0986 /
+2 CONT Abt 984); death 21 Feb 1030 per sources - the tree's 21 November 1030 kept verbatim (N-5), month
+2 CONT discrepancy noted; burial St Peter's Abbey, Ghent matches. Evidence:
+2 CONT en.wikipedia.org/wiki/Baldwin_IV_of_Flanders + nl.wikipedia.org/wiki/Otgiva_van_Luxemburg. See
+2 CONT applied/ledger.md 20260921-0655.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F5452@
+2 CONT (parents Frederick I of Luxembourg @I232112766198@ + Ermentrude of Gleiberg @I232112766199@), FAMS
+2 CONT @F5449@ (husband Baldwin IV of Flanders @I232112766194@, child Baldwin V @I232112688705@). See the
+2 CONT working file for the unverified data.
+0 @I232116859310@ INDI
+1 NAME Belo /de Carcossone/
+2 GIVN Belo
+2 SURN de Carcossone
+1 NAME Bello of Carcassonne //
+2 GIVN Bello of Carcassonne
+1 SEX M
+1 BIRT
+2 DATE 755
+1 DEAT
+2 DATE 812
+1 _FSID G9P5-NRQ
+1 SOUR @S900000010@
+1 NOTE VERIFIED 21 SEP 2026: Identity verified as Bello (Belló) of Carcassonne,
+2 CONT count of Carcassonne from 790 until his death (tree dates 755-812 within the
+2 CONT scholarly range c.755-c.810/812); founder of the Bellonid dynasty of Carcassonne
+2 CONT and Razès. Evidence: en.wikipedia.org/wiki/Bello_of_Carcassonne +
+2 CONT ca.wikipedia.org/wiki/Bel%C2%B7l%C3%B3_de_Carcassona. See applied/ledger.md
+2 CONT 20260921-0755.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build:
+2 CONT FAMC @F5961@ (parentage), FAMS @F5865@ (wife Cunigunda // @I232116859311@, child
+2 CONT Sunifredo I /de Narbona/ @I232116859309@ - spouse identity and Sunifred's paternity
+2 CONT disputed in the literature). See the reference file for the unverified data.
+0 @F856@ FAM
+1 HUSB @I232109150478@
+1 WIFE @I232109150080@
+1 CHIL @I232112689282@
+1 MARR
+2 DATE 889
+2 PLAC Rouen, Seine-Maritime, Haute-Normandy, France
+1 SOUR @S900000001@
+1 SOUR @S900000002@
+1 NOTE BUILD NOTE 21 SEP 2026: MARR 889 Rouen preserved per ledger 20260921-0015. Children @I232109173643@,
+2 CONT @I232116199622@ excluded - not yet verified; @I232109150076@ (Crispina) excluded - weak sourcing per
+2 CONT ledger.
+1 NOTE BUILD NOTE 21 SEP 2026: excluded non-verified members: CHIL @I232109173643@, CHIL @I232116199622@,
+2 CONT CHIL @I232109150076@.
+0 @F857@ FAM
+1 HUSB @I232109150478@
+1 WIFE @I232109150078@
+1 NOTE Per William of Jumieges, Rollo married Gisela of France more Cristiano c. 912;
+2 CONT her existence is debated and she certainly had no son (en.wikipedia.org/wiki/Gisela_of_France).
+1 SOUR @S900000004@
+0 @S686254584@ SOUR
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+1 _APID 1,1030::0
+1 REPO @R653608685@
+0 @S686254987@ SOUR
+1 TITL U.S. Public Records Index, 1950-1993, Volume 2
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,1732::0
+1 REPO @R653608685@
+0 @S686312739@ SOUR
+1 TITL Washington, Marriage Index, 1969-2014
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2017
+2 PLAC Lehi, UT, USA
+1 _APID 1,61233::0
+1 REPO @R653608685@
+0 @S686312783@ SOUR
+1 TITL Washington, Divorce Index, 1969-2014
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2017
+2 PLAC Lehi, UT, USA
+1 _APID 1,61251::0
+1 REPO @R653608685@
+0 @S706559512@ SOUR
+1 TITL U.S., Index to Public Records, 1994-2019
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2020
+2 PLAC Lehi, UT, USA
+1 _APID 1,62209::0
+1 REPO @R653608685@
+1 NOTE Voter Registration Lists, Public Record Filings, Historical Residential Records, and Other Household Database Listings
+0 @S726321741@ SOUR
+1 TITL U.S., Public Records Index, 1950-1993, Volume 2
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Lehi, UT, USA
+1 _APID 1,1732::0
+1 REPO @R653608685@
+1 NOTE Voter Registration Lists, Public Record Filings, Historical Residential Records, and Other Household Database Listings
+0 @S757649956@ SOUR
+1 TITL U.S., Newspapers.com™ Marriage Index, 1800s-current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2020
+2 PLAC Lehi, UT, USA
+1 _APID 1,62116::0
+1 REPO @R653608685@
+0 @S900000001@ SOUR
+1 TITL WIKIPEDIA: Rollo
+0 @S900000002@ SOUR
+1 TITL WIKIPEDIA: Poppa of Bayeux
+0 @S900000003@ SOUR
+1 TITL WIKIPEDIA: Gerloc
+0 @S900000004@ SOUR
+1 TITL WIKIPEDIA: Gisela of France
+0 @S900000005@ SOUR
+1 TITL WIKIPEDIA: House of Grimaldi
+0 @S900000006@ SOUR
+1 TITL WIKIPEDIA: Pepin of Italy
+0 @S900000007@ SOUR
+1 TITL WIKIPEDIA: Plectrude
+0 @S900000008@ SOUR
+1 TITL WIKIPEDIA: Bernard of Senlis
+0 @S900000009@ SOUR
+1 TITL WIKIPEDIA: Ogive of Luxembourg
+0 @S900000010@ SOUR
+1 TITL WIKIPEDIA: Bello of Carcassonne
+0 @I232116458499@ INDI
+1 NAME Kunigunde /Carolingian/ de Gellone, d'Aquitaine, van Austracie
+2 GIVN Kunigunde
+2 SURN Carolingian
+1 SEX F
+1 BIRT
+2 DATE from 0740 to 0770
+2 PLAC Aachen, North Rhine-Westphalia, Germany
+1 DEAT
+2 DATE 19 Jun 0835
+1 SOUR @S900000011@
+1 NOTE VERIFIED 21 SEP 2026 (historical fast-track, ledger 20260921-0855): this is
+2 CONT Cunegonde (Kunigunde), first wife of William of Gellone (Guillaume de Gellone)
+2 CONT and mother of Bernard of Septimania (b.~795, d.14 Feb 844 Toulouse). William's will
+2 CONT of 28 Jan 804 names his wives Cunegonde and Witburgis and his son Barnard
+2 CONT (en.wikipedia.org/wiki/William_of_Gellone);
+2 CONT fr.wikipedia.org/wiki/Guillaume_de_Gellone confirms the marriage to Cunegonde de Spolete
+2 CONT c.775 and their children including Bernard of Septimania. Tree birth/death dates
+2 CONT kept verbatim (N-5); no precise birth or death date is established in the literature.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build:
+2 CONT FAMC @F12751@ (parentage unestablished in the literature), FAMS @F12608@ (wife-only
+2 CONT fragment; husband William of Gellone not yet verified). See the reference file for the
+2 CONT unverified data. Observed: @I232222925748@ (Cunigunde /Gellone/, d.15 Jun Milano)
+2 CONT is a candidate duplicate - queued, not adjudicated this run.
+1 NOTE Adjudication 2026-09-21: @I232222925748@ (Cunigunde /Gellone/, wife of
+2 CONT /Bernard/) is NOT a duplicate of this record - verified this run as Cunégonde
+2 CONT de Gellone, queen of Italy, wife of Bernard of Italy (ledger 20260921-1055).
+0 @S900000011@ SOUR
+1 TITL WIKIPEDIA: William of Gellone
+0 @I232116475925@ INDI
+1 NAME Kunigunde (Nimilde) /Alda/ of Ampurias
+2 GIVN Kunigunde (Nimilde)
+2 SURN Alda
+2 NSFX of Ampurias
+1 SEX F
+1 BIRT
+2 DATE 775
+2 PLAC Carcassonne, Aude, Languedoc-Roussillon, France
+1 DEAT
+2 DATE 15 June 0835
+2 PLAC Italy
+1 BURI
+2 DATE June 835
+1 _FSID 9QQN-VXF
+1 SOUR @S900000012@
+1 NOTE VERIFIED 21 SEP 2026 (historical fast-track, ledger 20260921-0955): this is
+2 CONT Nimilde (Nimilda) of Ampurias, wife of Bello of Carcassonne (verified 2026-09-21,
+2 CONT @I232116859310@). fr.wikipedia.org/wiki/Bello_de_Carcassonne infobox lists
+2 CONT Bello's spouse as "Nimilde";
+2 CONT en.wikipedia.org/wiki/Bello_of_Carcassonne says Bello married "Ermentrude de Ampurias";
+2 CONT ca.wikipedia.org/wiki/Bel%C2%B7l%C3%B3_de_Carcassona says he married Nimilda in 805.
+2 CONT Tree birth/death dates kept verbatim (N-5); the literature fixes no precise dates.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build:
+2 CONT FAMC @F8971@ (parentage - parents not yet verified), FAMS @F8151@ (husband
+2 CONT "Bellon Borrell /de Carcassonne/" @I232116475924@ is an unsupported conflation -
+2 CONT no such figure in the literature; fr.wikipedia.org/wiki/Borrell_Ier_d'Osona treats
+2 CONT Bello and Borrell Ier d'Osona (d.820, parents unknown) as distinct figures). See the
+2 CONT reference file for the unverified data. Observed: @I232116859311@ (Cunigunda //,
+2 CONT dateless stub, wife of Bello in @F5865@) is a candidate duplicate of this person -
+2 CONT record merge not adjudicated under N-21 (reference file is read-only).
+0 @S900000012@ SOUR
+1 TITL WIKIPEDIA: Bello of Carcassonne - wife Nimilde
+0 @I232222925748@ INDI
+1 NAME Cunigunde /Gellone/
+2 GIVN Cunigunde
+2 SURN Gellone
+1 NAME Cunégonde de Gellone //
+2 GIVN Cunégonde de Gellone
+1 SEX F
+1 FAMS @F5073@
+1 BIRT
+2 PLAC Vermondois, , Picardie, France
+1 DEAT
+2 DATE 15 Jun
+2 PLAC Milano Milan, Lombardia, Lombardia, Italy
+1 _FSID GWHR-QF4
+1 SOUR @S900000013@
+1 NOTE VERIFIED 21 SEP 2026 (historical fast-track, ledger 20260921-1055): this is
+2 CONT Cunégonde de Gellone (also called Cunégonde de Laon), wife of Bernard of Italy
+2 CONT (Bernard d'Italie) from 813 and mother of Pepin of Vermandois; queen consort of
+2 CONT Italy. NOT a duplicate of William of Gellone's wife Cunegonde @I232116458499@:
+2 CONT the literature treats them as two distinct figures (fr.wiki: married Bernard
+2 CONT d'Italie, still alive 18 Jun 835 per the San Alessandro act; ca.wiki: the younger
+2 CONT may have been named for William's wife - i.e. a different person). Evidence:
+2 CONT fr.wikipedia.org/wiki/Cunégonde_de_Gellone +
+2 CONT ca.wikipedia.org/wiki/Cunegunda_d'Austràsia. Tree dates kept verbatim (N-5):
+2 CONT DEAT 15 Jun (no year) matches the ca.wiki 15-Jun-835 tradition; BIRT place
+2 CONT Vermondois is unconfirmed in the literature (her origins are unknown).
+1 NOTE BUILD NOTE 21 SEP 2026 (updated ledger 20260921-1555): husband /Bernard/
+2 CONT @I232222925747@ now verified as Bernard I, King of Italy (see his record) - FAMS
+2 CONT @F5073@ is now included in this build.
+0 @S900000013@ SOUR
+1 TITL WIKIPEDIA: Cunégonde de Gellone (queen of Italy)
+0 @I232118925443@ INDI
+1 NAME Cunigunde /de France, Countess of Lotharingia, Carolingian/
+2 GIVN Cunigunde
+2 SURN de France, Countess of Lotharingia, Carolingian
+1 NAME Cunigunda /of France/ Countess of Lotharingia
+2 GIVN Cunigunda
+2 SURN of France
+2 NSFX Countess of Lotharingia
+1 NAME cunégonde /DE FRIULI/
+2 GIVN cunégonde
+2 SURN DE FRIULI
+1 NAME Cunigunde de France /Carolingian/ Countess of Lotharingia
+2 GIVN Cunigunde de France
+2 SURN Carolingian
+2 NSFX Countess of Lotharingia
+1 SEX F
+1 BIRT
+2 DATE 0893
+2 PLAC Aachen, Cologne, North Rhine-Westphalia, Germany
+1 BIRT
+2 DATE about 893
+2 PLAC Aix-la-Chapelle, Aix-la-Chapelle, Nordrhein-Westfalen, Allemagne
+1 DEAT
+2 DATE 923
+2 PLAC Aachen (Aix-la-Chapelle), Rheinland, Rheinland-Pfalz, Germany
+1 DEAT
+2 DATE after 923
+2 PLAC Aix-la-Chapelle, Aix-la-Chapelle, Rhénanie, Prusse, Allemagne
+1 _FSID LB5L-H94
+1 SOUR @S900000014@
+1 NOTE VERIFIED 21 SEP 2026 (historical fast-track, ledger 20260921-1155): this is Cunigunda of France
+2 CONT (also styled Cunigunda of Sulichgau), b.893-d.924: daughter of Ermentrude of France and
+2 CONT granddaughter of Louis the Stammerer (Louis II of France); wife of Wigeric of Lotharingia (count
+2 CONT palatine of Lotharingia, founder of the House of Ardenne), married 909 by arrangement of Charles
+2 CONT III; mother of Frederick I of Upper Lorraine, Adalberon I of Metz, Gilbert, Sigebert, Gozlin of
+2 CONT Bidgau, Siegfried of Luxembourg, and Liutgarde; remarried c.922 to Ricwin of Verdun (d.923).
+2 CONT Evidence: en.wikipedia.org/wiki/Cunigunda_of_France (Nash 2017, Vanderputten 2018, Parisse 1981) +
+2 CONT fr.wikipedia.org/wiki/Wig%C3%A9ric_de_Bidgau. Tree dates kept verbatim (N-5): BIRT 0893/about 893
+2 CONT and DEAT 923/after 923 match the literature; the 'cunégonde DE FRIULI' name variant is unconfirmed
+2 CONT in the literature.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build: FAMC @F5574@
+2 CONT (@I232112812378@ Evrard de Friuli + @I232116862074@ Ermentrude DE FRANCE) and FAMC @F7691@
+2 CONT (@I232109982862@ Renier I van Henegouwen + @I232112810737@ Alberada) - the father's identity is
+2 CONT disputed in the literature (fr.wiki: daughter of Ermentrude, perhaps of Regnier I of Hainaut;
+2 CONT Eberhard/Evrard de Friuli tradition unconfirmed); FAMS @F4969@ (husband Wigeric of Lotharingia
+2 CONT @I232118926224@ not yet verified; tree's MARR 0920 postdates the tree's own DEAT 2 July 0919 for
+2 CONT Wigeric - noted, not adjudicated here; en.wiki places the marriage in 909). See the reference file
+2 CONT for the unverified data.
+0 @I232119044168@ INDI
+1 NAME Kunigunde (Hemma) /von Önningen/ Pfalzgräfin in Schwaben
+2 GIVN Kunigunde (Hemma)
+2 SURN von Önningen
+2 NSFX Pfalzgräfin in Schwaben
+1 SEX F
+1 BIRT
+2 DATE Cir 980
+2 PLAC Öhningen, Konstanz, Baden-Wuerttemberg, Germany
+1 CHR
+2 PLAC Germany
+1 DEAT
+2 DATE 6 March 1020
+2 PLAC Dießen am Ammersee, Upper Bavaria, Bavaria, Germany
+1 BURI
+2 PLAC St Stefan, Dießen am Ammersee, Upper Bavaria, Bavaria, Germany
+1 _FSID GMP2-3DC
+1 SOUR @S900000015@
+1 NOTE VERIFIED 21 SEP 2026 (historical fast-track, ledger 20260921-1355): this is
+2 CONT Kunigunde [Kunizza] of Diessen, wife of Friedrich I "Roch" (probably count of
+2 CONT Diessen, successor of Razzo per De Fundatoribus Monasterii Diessenses); she founded
+2 CONT the monasterium sancti Stephani at Diessen in 1020 after her husband's death and was
+2 CONT buried there (Diessen necrology: "Chuniza com ... uxor Friderici comes Rochen",
+2 CONT ob. Mar Non). Evidence: fmg.ac/Projects/MedLands/BAVARIAN NOBILITY.htm (married to
+2 CONT Friedrich [I] "Roch"; d. 6 Mar after 1020, bur. Diessen St Stefan; De Fundatoribus names
+2 CONT "Kunizza comitissa" as wife of "Fridericus comes dictus Roch") +
+2 CONT de.wikipedia.org/wiki/Konradiner ("Kunizza († 1020), ⚭ Friedrich I., 1003/1027,
+2 CONT Graf wohl von Dießen"). Tree dates kept verbatim (N-5): BIRT Cir 980 and DEAT
+2 CONT 6 March 1020 within the literature range; the "(Hemma)" name element is unconfirmed
+2 CONT in the literature (no MedLands/Wikipedia attestation of that byname).
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build:
+2 CONT FAMC @F10036@ (parentage conjectural in the literature: MedLands brackets the
+2 CONT Konrad I Duke of Swabia + Richlint parentage as unproven, and flags the Genealogia
+2 CONT and Historia Welforum as unreliable on Konrad I's daughters; De Fundatoribus
+2 CONT instead makes her sister of sancta Richgardis with Otto the Great as grandfather) -
+2 CONT not adjudicated here; FAMS @F526@ (husband Friedrich I /von Wassenburg/ @I232119044167@
+2 CONT not yet verified as a separate item: tree's b.970 / d.1030 Jerusalem vs MedLands
+2 CONT Friedrich [I] "Roch" d. before 1020, bur. Jerusalem; identity queued). See the
+2 CONT reference file for the unverified data.
+1 NOTE RESOLVED 21 SEP 2026 (ledger 20260921-1655): FAMS @F526@ added as marriage-only
+2 CONT family record - husband Friedrich I /von Wassenburg/ @I232119044167@ verified this
+2 CONT run as Friedrich [I] of Diessen; marriage attested in De Fundatoribus/Diessen necrology.
+0 @S900000015@ SOUR
+1 TITL WIKIPEDIA: Konradiner (Kunizza) + MedLands Bavarian Nobility
+0 @S900000014@ SOUR
+1 TITL WIKIPEDIA: Cunigunda of France
+0 @R653608685@ REPO
+1 NAME Ancestry.com
+0 @I232222925747@ INDI
+1 NAME /Bernard/
+2 SURN Bernard
+1 NAME Bernard I /of Italy/
+2 GIVN Bernard I
+1 SEX M
+1 FAMS @F5073@
+1 BIRT
+2 PLAC Vermandois, , , France
+1 DEAT
+2 DATE 17 Aug
+2 PLAC Milan, Milano, Lombardia, Italy
+1 _FSID GWHR-W2T
+1 SOUR @S900000016@
+1 NOTE VERIFIED 21 SEP 2026 (historical fast-track, ledger 20260921-1555): this is
+2 CONT Bernard I, King of Italy (Bernardo d'Italia; 797 - 17 Aug 818), son of Pepin of
+2 CONT Italy, grandson of Charlemagne; husband of Cunégonde de Gellone (Cunigunde of Laon,
+2 CONT @I232222925748@) and father of Pepin I of Vermandois. Blinded after his failed 817
+2 CONT revolt against Louis the Pious; died at Milan, buried San Ambrosio/Sant'Ambrogio.
+2 CONT Evidence: en.wikipedia.org/wiki/Bernard_of_Italy + fmg.ac MedLands ITALY Kings
+2 CONT ("BERNARD ... ([797]-Milan 17 Aug 818, bur Milan, San Ambrosio); m ([813]) CUNIGUNDIS").
+2 CONT Tree dates kept verbatim (N-5): DEAT "17 Aug" (no year), Milan, matches MedLands'
+2 CONT 17 Aug 818 exactly; BIRT place "Vermandois" unconfirmed in the literature (birthplace
+2 CONT not established - raised at Fulda, returned to Italy 812); NOTE: en.wiki gives his death
+2 CONT as 17 April 818 rather than 17 Aug - death-date variance in the literature, kept as in
+2 CONT the tree. it.wiki (Bernardo_d'Italia) confirms 17 Aug 818, Milan, Sant'Ambrogio.
+0 @F5073@ FAM
+1 HUSB @I232222925747@
+1 WIFE @I232222925748@
+1 SOUR @S900000016@
+1 NOTE Marriage attested in the literature: m. ([813]) CUNIGUNDIS per MedLands ITALY
+2 CONT Kings; en.wiki Bernard_of_Italy notes the marriage year is obscure; it.wiki gives
+2 CONT 813. Ledger 20260921-1555. No CHIL recorded on the tree's family record (kept as is).
+0 @S900000016@ SOUR
+1 TITL WIKIPEDIA: Bernard of Italy + MedLands Italy Kings
+0 @I232119044167@ INDI
+1 NAME Friedrich I /von Wassenburg/ Count im Uber Isar
+2 GIVN Friedrich I
+2 SURN von Wassenburg
+2 NSFX Count im Uber Isar
+1 SEX M
+1 BIRT
+2 DATE 970
+2 PLAC Büren,Regierungsbezirk Detmold,Nordrhein-Westfalen,Deutschland
+1 CHR
+2 PLAC Meran
+1 DEAT
+2 DATE 1030
+2 PLAC Jeruzalem
+1 BURI
+2 DATE 1027
+2 PLAC probably,,Riesgau,Germany
+1 _FSID LDJN-GL8
+1 SOUR @S900000017@
+1 NOTE VERIFIED 21 SEP 2026 (historical fast-track, ledger 20260921-1655): this is
+2 CONT Friedrich [I] of Diessen, "Fridericus comes dictus Roch" - husband of Kunigunde
+2 CONT [Kunizza] of Diessen (already verified, @I232119044168@); De Fundatoribus
+2 CONT Monasterii Diessenses names "Kunizza comitissa" as wife of "Fridericus comes
+2 CONT dictus Roch", and the Diessen necrology calls her "uxor Friderici comes Rochen".
+2 CONT He died in Jerusalem before 1020 (MedLands); attested as count 1003/1027 per
+2 CONT de.wikipedia Grafschaft DieBen ("Friedrich I., 1003/1027 Graf, wohl von DieBen").
+2 CONT Evidence: fmg.ac/Projects/MedLands/BAVARIAN NOBILITY.htm +
+2 CONT de.wikipedia.org/wiki/Grafschaft_Dießen.
+1 NOTE Tree dates kept verbatim (N-5) with VARIANCE flags: (a) DEAT 1030 Jerusalem -
+2 CONT MedLands records Friedrich [I] as having died in Jerusalem BEFORE 1020; the 1030
+2 CONT attestation belongs to Friedrich [II] (recorded 1025/1027/1030, presumably a
+2 CONT different person, maybe father and son - MedLands: "Wegener conflates Graf
+2 CONT Friedrich [I] and Graf Friedrich [II] as he appears to ignore the reference to
+2 CONT the death of the former before 1020"); the tree's single Friedrich I record merges
+2 CONT data of Friedrich I and II. (b) BURI 1027 predates DEAT 1030 (internal
+2 CONT inconsistency, kept as in tree). (c) BIRT place Buren (Westphalia) and the
+2 CONT "von Wassenburg" byname are unconfirmed in the literature.
+1 NOTE BUILD NOTE 21 SEP 2026: family links not yet verified, excluded from this build:
+2 CONT FAMC @F9958@ (parentage unestablished: tree's parents are Berthold I Count
+2 CONT Palatine of Bavaria + Cunigunde /de Lorraine/, the latter RULED OUT 20260921-1255
+2 CONT as unverifiable) - not adjudicated here; FAMS @F526@ added as marriage-only
+2 CONT (CHIL @I232119044159@, tree's "Frederick II Count of Diessen" matching MedLands
+2 CONT Friedrich [II] fl. 1025-1030, not yet verified as a separate item, excluded per
+2 CONT N-21). See the reference file for the unverified data.
+0 @F526@ FAM
+1 HUSB @I232119044167@
+1 WIFE @I232119044168@
+1 MARR
+2 PLAC Öhningen, , Baden-Württemberg, Germany
+1 SOUR @S900000017@
+1 SOUR @S900000015@
+1 NOTE Marriage attested in MedLands Bavarian Nobility via De Fundatoribus Monasterii
+2 CONT Diessenses ("Kunizza comitissa" as wife of "Fridericus comes dictus Roch");
+2 CONT de.wikipedia Grafschaft DieBen corroborates Friedrich I as count of Diessen but
+2 CONT names no wife (corrected 20260921-1706 per worker flag). Ledger 20260921-1655.
+2 CONT CHIL @I232119044159@ on the tree's family record excluded per N-21 (Frederick II
+2 CONT not yet verified as a separate item). Resolves the FAMS @F526@ open item in the
+2 CONT @I232119044168@ BUILD NOTE of ledger 20260921-1355.
+0 @S900000017@ SOUR
+1 TITL WIKIPEDIA: Friedrich I of Diessen + MedLands Bavarian Nobility
+0 TRLR
